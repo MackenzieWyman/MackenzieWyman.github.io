@@ -2,7 +2,7 @@
 title: "Mackenzie Wyman" # change this to your name
 image: images/linkedin_profile_picture.jpg # change to your profile pic
 about:
-  template: jolla # templates: jolla, trestles, solana, marquee, broadside
+  template: trestles # templates: jolla, trestles, solana, marquee, broadside
   links: 
     - icon: envelope
       text: Contact Me
@@ -25,4 +25,4 @@ There are also settings to get a list of site items you may want people to have 
 
 There are different styles of landing pages. In this particular style, the `index.qmd` page is used as an about page. Instead of immediately showcasing your work, it showcases you! You can introduce yourself and include your contact information right by your image and description.
 
-You can then also decide to have some content show up below the about portion as well.
+Welcome
